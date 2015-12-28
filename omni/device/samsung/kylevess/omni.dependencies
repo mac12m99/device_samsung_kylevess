@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "Grace5921",
+    "repository":  "device_samsung_kylevess",
+    "target_path": "device/samsung/kylevess",
+    "revision":    "android-4.4"
+  },
+  {
+    "remote":      "kadjarT",
+    "repository":  "android_kernel_samsung_kylevess",
+    "target_path": "android_kernel/samsung/kylevess",
+    "revision":    "android-4.4"
+  }
+]

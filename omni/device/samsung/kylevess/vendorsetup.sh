@@ -1,0 +1,2 @@
+add_lunch_combo full_kylevess-userdebug
+add_lunch_combo omni_kylevess-userdebug

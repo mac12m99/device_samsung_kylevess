@@ -1,0 +1,20 @@
+[
+  {
+    "remote":      "omnirom",
+    "repository":  "android_device_samsung_kylevess",
+    "target_path": "device/samsung/kylevess",
+    "revision":    "android-4.4"
+  },
+  {
+    "remote":      "omnirom",
+    "repository":  "android_device_samsung_kylevess",
+    "target_path": "device/samsung/kylevess",
+    "revision":    "android-4.4"
+  },
+  {
+    "remote":      "omnirom",
+    "repository":  "android_kernel_samsung_kylevess",
+    "target_path": "kernel/samsung/kylevess",
+    "revision":    "android-4.4"
+  }
+]
