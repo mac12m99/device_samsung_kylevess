@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/device_kylevess.mk \
+    $(LOCAL_DIR)/cm.mk \
