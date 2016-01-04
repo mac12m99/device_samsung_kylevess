@@ -91,7 +91,7 @@ BOARD_HAL_STATIC_LIBRARIES := libhealthd-kylevess.hawaii
 
 # Recovery
 #TARGET_RECOVERY_INITRC :=
-TARGET_RECOVERY_FSTAB := device/samsung/kylevess/ramdisk/twrp.fstab
+TARGET_RECOVERY_FSTAB := device/samsung/kylevess/ramdisk/fstab.hawaii_ss_kylevess
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/class/android_usb/android0/f_mass_storage/lun%d/file"
 BOARD_HAS_NO_SELECT_BUTTON := true
 BOARD_HAS_LARGE_FILESYSTEM := true
