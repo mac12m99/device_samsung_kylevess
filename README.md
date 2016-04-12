@@ -1,6 +1,4 @@
-Pac-Man Rom device tree for samsung galaxy trend lite(s7390)
+android_device_kyleve
+======================
 
-Build istrunctions:
-1)copy pac_kylevess.mk into vendor/pac/products
-2)./build-pac.sh kylevess
-3)done!
+Device tree for Galaxy Trend Duos GT-S7392 (2 SIM)
